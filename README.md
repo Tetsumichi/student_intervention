@@ -1,7 +1,8 @@
-# Machine Learning Engineer Nanodegree
-# Supervised Learning
-## Project: Building a Student Intervention System
+# Building a Student Intervention System
 
+The main objective of this project is to build a supervised learning model that identifies students who may need early interventions before they fail to graduate.
+
+## Software Requirements
 ### Install
 
 This project requires **Python 2.7** and the following Python libraries installed:
@@ -67,3 +68,5 @@ The dataset used in this project is included as `student-data.csv`. This dataset
 - `health` : current health status (numeric: from 1 - very bad to 5 - very good)
 - `absences` : number of school absences (numeric: from 0 to 93)
 - `passed` : did the student pass the final exam (binary: yes or no)
+
+This project is a part of the Machine Learning Engineer Nanodegree program at [Udacity](https://www.udacity.com/).
